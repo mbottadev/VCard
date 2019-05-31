@@ -1,6 +1,6 @@
 # VCard
 
-## Time-line
+## Timeline
 Exercice realised after three weeks of training.
 
 ## _Exercise Instructions:_ 
